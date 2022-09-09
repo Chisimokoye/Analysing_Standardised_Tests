@@ -1,5 +1,4 @@
-# Pandas_Challenge-
-**REPORT ON THE ANALYSIS OF THE DISTRICT WIDE STANDARDIZED TEST RESULTS**
+# DISTRICT WIDE STANDARDIZED TEST RESULTS ANALYSIS
 
 
 Test results from of 39,170 students across 15 schools were analysed for this report. Overall, it was observed that the pass rate for Reading was better than that of math, with a % passing of 85.81% as against 74.98% recorded in math.
